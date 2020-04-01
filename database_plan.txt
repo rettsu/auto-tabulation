@@ -1,0 +1,46 @@
+tbl_course
+  - course
+  - hours
+  - status ( 0 = standby, 1 = ongoing, 2 = finished, 3 = pending )
+  - date_start
+  - date_end
+  - trainor
+  - assessor
+  - trainees_no
+
+tbl_trainees
+  - uli
+  - entry date
+  - name
+  - comlete address
+  - email
+  - contact
+  - nationality
+  - sex
+  - civil status
+  - employment status
+  - birthdate
+  - birthplace
+  - educ attainment
+  - classification
+  - ncae stat (yes or no)
+  - where
+  - when
+  - course
+  - voucher no.
+  - scholarship
+  - name of course
+
+tbl_message
+  - message
+  - date
+  - sender
+  - receivers
+
+tbl_post
+  - content
+  - date
+  - image
+
+trainees_class
+  - 
